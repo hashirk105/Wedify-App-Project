@@ -7,6 +7,6 @@ The project incorporates Firebase for authentication and CRUD (Create, Read, Upd
 
 Admins play a crucial role in Wedify, as they have the ability to add, remove, update, and view employees associated with the wedding events. This includes employees such as managers, waiters, and other staff members necessary for the smooth execution of a wedding event. Admins can easily keep track of the event details, make necessary changes, and ensure efficient coordination among the employees.
 
-Wedify aims to provide a user-friendly interface, making it easy for users to navigate through the application and seamlessly manage their wedding event plans. By leveraging the power of React Native, Wedify offers a consistent experience across multiple platforms, including iOS and Android devices.
+Wedify aims to provide a user-friendly interface, making it easy for users to navigate through the application and seamlessly manage their wedding event plans. By leveraging the power of React Native, Wedify offers a consistent experience across multiple platforms.
 
 Through the combination of Firebase integration, user-friendly design, and comprehensive features, Wedify simplifies the wedding planning process, empowering users to create their dream wedding events with ease.
